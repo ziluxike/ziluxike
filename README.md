@@ -15,7 +15,7 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=ziluxike&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 
-<img src="https://img.shields.io/badge/Java-%23000000.svg?logo=Java&logoColor=white&style=flat-square" alt="Java" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Golang-%23000000.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" />
+<img src="https://img.shields.io/badge/Java-%23000000.svg?logo=java&logoColor=white&style=flat-square" alt="Java" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Golang-%23000000.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" />
 
 
 
