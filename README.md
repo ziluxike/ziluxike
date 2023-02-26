@@ -23,4 +23,8 @@
 
 
 
-<img src="https://img.shields.io/badge/springboot-%234ea94b.svg?logo=springboot&logoColor=white&style=flat-square%22%20alt=%22springboot%22" /> <img src="https://img.shields.io/badge/spring-%234ea94b.svg?logo=spring&logoColor=white&style=flat-square%22%20alt=%spring%22" /> 
+<img src="https://img.shields.io/badge/spring-%234ea94b.svg?logo=spring&logoColor=white&style=flat-square%22%20alt=%spring%22" />  <img src="https://img.shields.io/badge/springboot-%234ea94b.svg?logo=springboot&logoColor=white&style=flat-square%22%20alt=%22springboot%22" />
+
+
+
+ <img src="https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white&style=flat-square%22%20alt=%22steam%22" /> <img src="https://img.shields.io/badge/Riot%20Game-%23000000.svg?logo=riotgames&logoColor=white&style=flat-square%22%20alt=%22riotgames%22" />
